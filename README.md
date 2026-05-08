@@ -1,19 +1,8 @@
 <div align="center">
 
-```
-███╗   ██╗██╗ ██████╗██╗  ██╗██████╗ ██████╗ ███████╗ █████╗ ███╗   ███╗
-████╗  ██║██║██╔════╝██║ ██╔╝██╔══██╗██╔══██╗██╔════╝██╔══██╗████╗ ████║
-██╔██╗ ██║██║██║     █████╔╝ ██║  ██║██████╔╝█████╗  ███████║██╔████╔██║
-██║╚██╗██║██║██║     ██╔═██╗ ██║  ██║██╔══██╗██╔══╝  ██╔══██║██║╚██╔╝██║
-██║ ╚████║██║╚██████╗██║  ██╗██████╔╝██║  ██║███████╗██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=nickdream21&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=el%20talento%20se%20impone%20a%20lo%20que%20quiere%20la%20mayor%C3%ADa&descAlignY=60&descSize=16)
 
-### *el talento se impone a lo que quiere la mayoría* 🎯
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;C%23+%7C+Kotlin+%7C+SQL;Builder+of+things+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+React+%7C+Node.js;C%23+%7C+Kotlin+%7C+SQL+Server;Building+things+that+matter+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,9 +12,9 @@
 
 ```javascript
 const nickdream21 = {
-  nombre:    "nickdream21",
-  frase:     "el talento se impone a lo que quiere la mayoría 🎯",
-  intereses: ["desarrollo web", "apps móviles", "sistemas backend"],
+  nombre:      "nickdream21",
+  frase:       "el talento se impone a lo que quiere la mayoría 🎯",
+  enfoque:     ["desarrollo web", "apps móviles", "sistemas backend"],
   actualmente: "construyendo cosas que importan",
 };
 ```
@@ -40,6 +29,7 @@ const nickdream21 = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend & Mobile**
@@ -60,15 +50,14 @@ const nickdream21 = {
 
 ## `$ ls proyectos/`
 
-<div align="center">
-
-[![Krawl](https://github-readme-stats.vercel.app/api/pin/?username=nickdream21&repo=Krawl&theme=tokyonight&hide_border=true)](https://github.com/nickdream21/Krawl)
-[![Sistema Alquiler](https://github-readme-stats.vercel.app/api/pin/?username=nickdream21&repo=sistema-alquiler-vehiculos&theme=tokyonight&hide_border=true)](https://github.com/nickdream21/sistema-alquiler-vehiculos)
-
-[![Dmovil](https://github-readme-stats.vercel.app/api/pin/?username=nickdream21&repo=Dmovil&theme=tokyonight&hide_border=true)](https://github.com/nickdream21/Dmovil)
-[![2FA System](https://github-readme-stats.vercel.app/api/pin/?username=nickdream21&repo=2fa-sys&theme=tokyonight&hide_border=true)](https://github.com/nickdream21/2fa-sys)
-
-</div>
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [🕷️ Krawl](https://github.com/nickdream21/Krawl) | Web crawler / scraper | JavaScript |
+| [🚗 Sistema Alquiler](https://github.com/nickdream21/sistema-alquiler-vehiculos) | CRUD de alquiler de vehículos | Node.js · React · SQL Server |
+| [📱 Dmovil](https://github.com/nickdream21/Dmovil) | Aplicación móvil | Kotlin |
+| [🔐 2FA System](https://github.com/nickdream21/2fa-sys) | Sistema de autenticación 2FA | C# |
+| [📁 Gestor de Archivos](https://github.com/nickdream21/gestorDeArchivos) | Gestor e indexación de archivos | JavaScript |
+| [🌐 Web Personal](https://github.com/nickdream21/web) | Página personal | HTML |
 
 ---
 
@@ -76,14 +65,9 @@ const nickdream21 = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nickdream21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickdream21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=nickdream21&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/nickdream21)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nickdream21&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickdream21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10)
 
 </div>
 
@@ -93,6 +77,10 @@ const nickdream21 = {
 
 *"Code is not just syntax — it's thought made tangible."*
 
+&nbsp;
+
 ![Profile views](https://komarev.com/ghpvc/?username=nickdream21&color=6C63FF&style=flat-square&label=profile+views)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer)
 
 </div>
