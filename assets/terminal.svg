@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="408" viewBox="0 0 700 408" role="img" aria-label="nickdream21: Desarrollador Full-Stack, Piura, Perú">
+<style>
+text{font-family:"Cascadia Code","JetBrains Mono",Consolas,"SF Mono",Menlo,monospace;font-size:15px;white-space:pre}
+.fg{fill:#c9d1d9}.mu{fill:#8b949e}.hi{fill:#f0f6fc;font-weight:600}.pr{fill:#7ee787}.dir{fill:#a5a0ff}
+</style>
+<rect x="0.5" y="0.5" width="699" height="407" rx="10" fill="#0a0e14" stroke="#30363d"/>
+<path d="M0.5 36.5H699.5" stroke="#30363d"/>
+<circle cx="22" cy="18" r="5.5" fill="#3a3f4b"/><circle cx="40" cy="18" r="5.5" fill="#3a3f4b"/><circle cx="58" cy="18" r="5.5" fill="#3a3f4b"/>
+<text x="350.0" y="23" text-anchor="middle" class="mu" style="font-size:12px">nickdream21 — bash</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/><text x="28" y="74"><tspan class="pr">nickdream21@piura</tspan><tspan class="mu">:</tspan><tspan class="dir">~</tspan><tspan class="mu">$ </tspan></text><clipPath id="c0"><rect x="219.1" y="56" height="26" width="0"><animate attributeName="width" values="0.0;9.1;18.2;27.3;36.4;45.5;54.6" calcMode="discrete" begin="0.65s" dur="0.42s" fill="freeze"/></rect></clipPath><text x="219.1" y="74" class="fg" clip-path="url(#c0)">whoami</text></g>
+<text x="28" y="100" opacity="0"><tspan class="hi">Desarrollador Full-Stack</tspan><tspan class="mu">  ·  Piura, Perú</tspan><set attributeName="opacity" to="1" begin="1.42s" fill="freeze"/></text>
+<text x="28" y="126" opacity="0"><tspan class="fg">Diseño, desarrollo y mantengo sistemas empresariales en producción.</tspan><set attributeName="opacity" to="1" begin="1.54s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="1.66s" fill="freeze"/><text x="28" y="165.0"><tspan class="pr">nickdream21@piura</tspan><tspan class="mu">:</tspan><tspan class="dir">~</tspan><tspan class="mu">$ </tspan></text><clipPath id="c3"><rect x="219.1" y="147.0" height="26" width="0"><animate attributeName="width" values="0.0;9.1;18.2;27.3;36.4;45.5;54.6;63.7;72.8;81.9;91.0;100.1;109.2;118.3" calcMode="discrete" begin="1.91s" dur="0.91s" fill="freeze"/></rect></clipPath><text x="219.1" y="165.0" class="fg" clip-path="url(#c3)">cat stack.txt</text></g>
+<text x="28" y="191.0" opacity="0"><tspan class="mu">lenguajes   </tspan><tspan class="fg">JavaScript  TypeScript  Python  C#  Kotlin  Dart</tspan><set attributeName="opacity" to="1" begin="3.17s" fill="freeze"/></text>
+<text x="28" y="217.0" opacity="0"><tspan class="mu">frameworks  </tspan><tspan class="fg">Node.js  React  ASP.NET  Electron  Flutter</tspan><set attributeName="opacity" to="1" begin="3.29s" fill="freeze"/></text>
+<text x="28" y="243.0" opacity="0"><tspan class="mu">datos       </tspan><tspan class="fg">SQL Server  SQLite  Supabase</tspan><set attributeName="opacity" to="1" begin="3.41s" fill="freeze"/></text>
+<text x="28" y="269.0" opacity="0"><tspan class="mu">ia          </tspan><tspan class="fg">TensorFlow  OpenCV  OCR  LLMs</tspan><set attributeName="opacity" to="1" begin="3.53s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.65s" fill="freeze"/><text x="28" y="308.0"><tspan class="pr">nickdream21@piura</tspan><tspan class="mu">:</tspan><tspan class="dir">~</tspan><tspan class="mu">$ </tspan></text><clipPath id="c8"><rect x="219.1" y="290.0" height="26" width="0"><animate attributeName="width" values="0.0;9.1;18.2;27.3;36.4;45.5;54.6;63.7;72.8;81.9;91.0;100.1;109.2;118.3" calcMode="discrete" begin="3.90s" dur="0.91s" fill="freeze"/></rect></clipPath><text x="219.1" y="308.0" class="fg" clip-path="url(#c8)">ls proyectos/</text></g>
+<text x="28" y="334.0" opacity="0"><tspan class="dir">WebSGV/    a-mar-pedidos/    krawl/    ordenes-compra/</tspan><set attributeName="opacity" to="1" begin="5.16s" fill="freeze"/></text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="5.48s" fill="freeze"/><text x="28" y="360.0"><tspan class="pr">nickdream21@piura</tspan><tspan class="mu">:</tspan><tspan class="dir">~</tspan><tspan class="mu">$ </tspan></text><rect x="219.1" y="346.0" width="9" height="17" fill="#c9d1d9"><animate attributeName="opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect></g>
+</svg>
